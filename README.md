@@ -1,2 +1,2 @@
-# lab-1
-codespace
+# lab-1&2
+code
